@@ -20,8 +20,8 @@ import A from 'components/A';
 import styles from './styles.css';
 
 
-import elo from './no';
 function App(props) {
+
   return (
     <div className={styles.wrapper}>
       <div>hello worldsss</div>
